@@ -164,7 +164,7 @@ For this hackathon prototype, we've used:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/16srivarshitha/TaxSmart-AI.git]
+git clone https://github.com/16srivarshitha/TaxSmart-AI.git
 cd taxsmart-ai
 
 # Create virtual environment
