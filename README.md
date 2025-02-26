@@ -132,35 +132,14 @@ Our solution targets:
 
 ## Demo Scenario
 
-Our hackathon demonstration showcases a complete user journey:
+My hackathon demonstration showcases a complete user journey:
 
 1. **Document Upload**: User uploads their Form 16 through the interface
 2. **Automated Extraction**: System extracts income, TDS, and other key information
 3. **Deduction Identification**: Based on the extracted data, the system identifies applicable deductions
 4. **Regime Comparison**: The system calculates tax liability under both regimes and recommends the optimal choice
 5. **Interactive Q&A**: User asks follow-up questions about their tax situation
-6. **Savings Dashboard**: User views a visual representation of their potential tax savings
-
-## Future Roadmap (Post-Hackathon)
-
-If selected for further development, we plan to expand TaxSmart AI with:
-
-### Phase 1: Enhanced Processing (Next 3 Months)
-- Support for additional document types (investment proofs, rent receipts)
-- Improved extraction accuracy through supervised learning
-- Expanded tax rule coverage for more complex scenarios
-
-### Phase 2: Intelligence Expansion (3-6 Months)
-- ML-based personalized deduction finder
-- Multilingual support (Hindi, Tamil, Bengali)
-- DigiLocker integration for secure document retrieval
-
-### Phase 3: Financial Ecosystem (6-12 Months)
-- UPI transaction categorization for expense tracking
-- Banking and investment platform integration
-- Predictive tax planning features
-- Mobile application with notification system
-
+6. **Savings Dashboard**: User views a visual representation of their potential tax saving
 
 ## Technology Stack
 
@@ -213,14 +192,6 @@ cd frontend
 npm start
 ```
 
-## Challenges Overcome
-
-During this hackathon, I tackled several significant challenges:
-
-1. **Document Variability**: Developed a robust extraction system that works across different Form 16 formats from various employers
-2. **Tax Rule Complexity**: Created a flexible knowledge representation that accurately models the Indian tax code
-3. **Real-time Processing**: Optimized our pipeline to provide near-instantaneous feedback on document uploads
-4. **Limited Training Data**: Implemented data augmentation techniques to improve model performance with limited examples
 
 ## Acknowledgements
 
