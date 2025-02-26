@@ -161,21 +161,11 @@ python manage.py runserver
 
 The TaxSmart AI API provides programmatic access to tax calculation, document processing, and optimization features.
 
-API documentation is available at [https://api.taxsmart.ai/docs](https://api.taxsmart.ai/docs) after deployment.
-
 Key endpoints include:
 - `/api/documents/process`: Upload and process tax documents
 - `/api/tax/calculate`: Calculate tax liability under specified regime
 - `/api/deductions/identify`: Find eligible deductions based on financial profile
 - `/api/planning/forecast`: Generate tax liability forecasts
-
-## Demo and Screenshots
-
-![Dashboard](https://via.placeholder.com/600x300?text=TaxSmart+Dashboard)
-
-![Document Processing](https://via.placeholder.com/600x300?text=Document+Processing)
-
-![Tax Comparison](https://via.placeholder.com/600x300?text=Tax+Regime+Comparison)
 
 ## Contribution Guidelines
 
@@ -188,17 +178,6 @@ We welcome contributions to TaxSmart AI! Please follow these steps:
 5. Open a Pull Request
 
 Please ensure your code follows our style guidelines and includes appropriate tests.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-For questions or support, please contact:
-- Email: support@taxsmart.ai
-- Twitter: [@TaxSmartAI](https://twitter.com/TaxSmartAI)
-- Website: [https://taxsmart.ai](https://taxsmart.ai)
 
 ## Acknowledgements
 
