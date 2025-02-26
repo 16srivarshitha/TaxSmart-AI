@@ -123,7 +123,7 @@ Enhanced Document Processing
 
 ## Target Audience & User Impact
 
-Our solution targets:
+This solution targets:
 1. **Primary**: Salaried individuals (25-45 years) with basic investment income
 2. **Secondary**: Freelancers and professionals with multiple income sources
 3. **Tertiary**: First-time tax filers from tier 2/3 cities
