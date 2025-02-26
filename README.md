@@ -90,35 +90,36 @@ TaxSmart AI addresses these challenges through an intelligent, conversational ta
    - React-based frontend for demonstration
 
 ## Future Scope of the Project
-While our hackathon prototype demonstrates core functionality, TaxSmart AI has significant potential for expansion:
+
+While this hackathon prototype demonstrates core functionality, TaxSmart AI has significant potential for expansion:
 Enhanced Document Processing
 
-### Support for additional document types (investment proofs, rent receipts)
-Improved extraction accuracy through supervised learning
-Expanded tax rule coverage for more complex scenarios
-Support for bulk document processing
+1. **Support for additional document types (investment proofs, rent receipts)**
+- Improved extraction accuracy through supervised learning
+- Expanded tax rule coverage for more complex scenarios
+- Support for bulk document processing
 
-#### Intelligence Expansion
+2. **Intelligence Expansion**
 
-ML-based personalized deduction finder
-Multilingual support (Hindi, Tamil, Bengali, and other Indian languages)
-DigiLocker integration for secure document retrieval
-Advanced tax optimization algorithms for complex financial situations
+- ML-based personalized deduction finder
+- Multilingual support (Hindi, Tamil, Bengali, and other Indian languages)
+- DigiLocker integration for secure document retrieval
+- Advanced tax optimization algorithms for complex financial situations
 
-### Financial Ecosystem Integration
+3. **Financial Ecosystem Integration**
 
-UPI transaction categorization for automatic expense tracking
-Banking and investment platform integration
-Predictive tax planning features based on financial patterns
-Multi-year optimization strategies
-What-if scenario modeling for major financial decisions
+- UPI transaction categorization for automatic expense tracking
+- Banking and investment platform integration
+- Predictive tax planning features based on financial patterns
+- Multi-year optimization strategies
+- What-if scenario modeling for major financial decisions
 
-### Platform Evolution
+4. **Platform Evolution**
 
-Mobile application with notification system
-Tax filing history and year-over-year comparison
-Enterprise version for tax professionals and SMEs
-API ecosystem for third-party financial service integration
+- Mobile application with notification system
+- Tax filing history and year-over-year comparison
+- Enterprise version for tax professionals and SMEs
+- API ecosystem for third-party financial service integration
 
 ## Target Audience & User Impact
 
